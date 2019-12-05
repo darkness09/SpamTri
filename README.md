@@ -17,4 +17,4 @@ ls
 python tri.py
 ```
 
-<img=src"Tri.png">
+<img src="Tri.png">
